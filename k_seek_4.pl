@@ -1,6 +1,7 @@
 #!usr/bin/perl
 # k_seek.r4.pl
 # identifies repeats in every read, and counts them, version 4 (combines k_finder and k_counter).
+#modified script by guillamaury debras in order to obtain the count of dinstinct repetitive sequences according to their intern repetitions.
 use strict;
 use warnings;
 use POSIX;
