@@ -1,0 +1,16 @@
+
+#in order to properly display the paramters of the algorithm output
+# we will display the motif its repetition the length of the final motif and the occurences of it
+
+import sys
+input_file1 = sys.argv[1]
+
+# separate the number of time the motif is repeated on itself and the motif itself
+final_file = 'final_file_{}.txt'.format(input_file)
+with open(final_file, 'r') as input_file1, open(top100_file1, 'w') as output_file:
+    for line in input_file1:
+   
+	data = line.split('x')
+        for item in data :
+            output_file.write(" "+item)
+

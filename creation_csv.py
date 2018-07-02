@@ -39,7 +39,7 @@ for input_file in os.listdir(path):
 
   
         with open(small_filename,"r") as myfile:
-            head=list(islice(myfile,20))
+            head=list(islice(myfile,100))
       
         top20_file = 'top20_sort_{}.txt'.format(input_file)
 
@@ -93,9 +93,7 @@ def creation_csv(db):
         row = row[:-1]    
         row += "\n"
         csv.write(row)
-  
-    
-    
+       
     
 creation_csv(database)
 
