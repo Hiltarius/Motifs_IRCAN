@@ -1,0 +1,104 @@
+import sys
+"""
+@author guillamaury debras
+# mettre en input les differents fichiers info d'un dataset donné
+#recuperation des listes respectives d'accession et gbases
+#recuperer le nom de chaque fichier resultat d'output k_seek_4_2
+#transdaridser mbases en gbases
+# standardiser les occurrences de chaque fichiers avc les valeurs gabses respectives
+
+
+"""
+inputp = sys.argv[1]
+inputp2=sys.argv[2]
+inputp3 =sys.argv[3]
+
+
+
+accession=[]
+mbases=[]
+
+
+# faire ca fois 3, sois on multiplie par 3 par fonction sois on
+
+#input1 = fibro
+with open(inputp) as f :
+    cpt = 0
+    for line in f:
+        line = line.strip().split("\t")
+        typep.append(line[14])
+        accession.append(line[8])
+        mbases.append(line[5])
+        instrument.append(line[27])
+        cpt+=1
+        if cpt == 1 :
+            mbases.pop(0)
+            accession.pop(0)
+            typep.pop(0)
+            instrument.pop(0)
+
+
+print " finit 1"
+
+#blood = input 2          
+with open(inputp2) as f :
+    cpt = 0
+    lenp = len(accession)
+    print lenp
+   
+    for line in f:
+        line = line.strip().split("\t")
+        #typep.append(line[27])
+        typep.append("whole blood")
+        accession.append(line[14])
+        mbases.append(line[11])
+        #instrument.append(line[28])
+        instrument.append("Illumina HiSeq 2000")
+        cpt+=1
+        if cpt == 1 :
+            mbases.pop(lenp)
+            accession.pop(lenp)
+            typep.pop(lenp)
+            instrument.pop(lenp)
+
+print "finit 2"
+#lymphoblastoid = input 3         
+with open(inputp3) as f :
+    cpt = 0
+    lenp = len(accession)
+    print lenp
+   
+    for line in f:
+        line = line.strip().split("\t")
+        #typep.append(line[27])
+        typep.append("lymphoblastoid")
+        accession.append(line[13])
+        mbases.append(line[10])
+        #instrument.append(line[28])
+        instrument.append("hiseqxten")
+        cpt+=1
+        if cpt == 1 :
+            mbases.pop(lenp)
+            accession.pop(lenp)
+            typep.pop(lenp)
+            instrument.pop(lenp)
+
+print "finit 3"
+
+
+            
+
+def transfombase(liste):
+    myint=1000.0
+    liste = [int(s) / myint for s in liste]
+    return liste
+      
+mbases = transfombase(mbases)
+
+
+def transfo(liste):
+    string=".fastq"
+    liste = [s + string for s in liste]
+    return liste
+      
+accession = transfo(accession)

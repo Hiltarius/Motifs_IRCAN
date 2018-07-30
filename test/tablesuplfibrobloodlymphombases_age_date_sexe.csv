@@ -1,0 +1,63 @@
+accession;instrument;type;date;age;gender;Gbases
+SRR7171683.fastq;Illumina HiSeq 2000;Cockayne sydrome, Type A;2018-05-21;13yr;male;4.658
+SRR7171682.fastq;Illumina HiSeq 2000;Cockayne sydrome, Type A;2018-05-16;13yr;male;4.858
+SRR7171680.fastq;Illumina HiSeq 2000;Xeroderma pigmentosum;2018-05-16;4yr;male;5.171
+SRR7171679.fastq;Illumina HiSeq 2000;Xeroderma pigmentosum;2018-05-16;nd;;11.189
+SRR7171678.fastq;Illumina HiSeq 2000;Xeroderma pigmentosum;2018-05-16;nd;;9.687
+SRR7171677.fastq;Illumina HiSeq 2000;Cockayne sydrome, type B;2018-05-16;8yr;female;7.921
+SRR7171676.fastq;Illumina HiSeq 2000;Cockayne sydrome, Type A;2018-05-16;13yr;male;5.303
+SRR7171675.fastq;Illumina HiSeq 2000;Cockayne sydrome, type B;2018-05-16;10yr;female;7.126
+SRR7171674.fastq;Illumina HiSeq 2000;Cockayne sydrome, type B;2018-05-16;8yr;female;7.211
+SRR7171673.fastq;Illumina HiSeq 2000;Cockayne sydrome, type B;2018-05-16;8yr;female;7.337
+SRR7171672.fastq;Illumina HiSeq 2000;Cockayne sydrome, type B;2018-05-16;10yr;female;7.082
+SRR7171671.fastq;Illumina HiSeq 2000;Cockayne sydrome, type B;2018-05-16;10yr;female;7.217
+SRR7171669.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;neonate;;5.775
+SRR7171668.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;neonate;;7.843
+SRR7171667.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-21;neonate;;8.732
+SRR7171666.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;1yr;male;8.332
+SRR7171665.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;1yr;male;10.756
+SRR7171664.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;1yr;male;3.67
+SRR7171663.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;1yr;male;7.806
+SRR7171662.fastq;Illumina HiSeq 2000;Xeroderma pigmentosum;2018-05-16;4yr;male;8.495
+SRR7171661.fastq;Illumina HiSeq 2000;Xeroderma pigmentosum;2018-05-16;4yr;male;10.862
+SRR7171670.fastq;Illumina HiSeq 2000;Apparently healthy;2018-05-16;neonate;;6.827
+ERR251326.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;10.679
+ERR251327.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;8.237
+ERR251328.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;8.57
+ERR251329.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;8.23
+ERR251342.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;7.414
+ERR251343.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;7.507
+ERR251344.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;7.607
+ERR251345.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;6.628
+ERR251346.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;6.393
+ERR251347.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;8.439
+ERR251348.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;8.708
+ERR251377.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;7.466
+ERR251378.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;7.463
+ERR251379.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;6.722
+ERR251380.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;6.713
+ERR251401.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;9.453
+ERR251402.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;female;9.324
+ERR251403.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;8.288
+ERR251404.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;8.392
+ERR251325.fastq;Illumina HiSeq 2000;whole blood;2013-04-16;unknown;male;10.779
+ERR1602649.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;12.172
+ERR1602650.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;12.315
+ERR1602651.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.218
+ERR1602652.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.306
+ERR1602653.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;female;9.523
+ERR1602654.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;female;10.634
+ERR1602655.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.854
+ERR1602656.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.57
+ERR1602657.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;14.157
+ERR1602658.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;female;10.326
+ERR1602659.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;female;11.467
+ERR1602660.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.897
+ERR1602661.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;11.92
+ERR1602662.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;12.633
+ERR1602663.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.386
+ERR1602664.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.528
+ERR1602665.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;female;9.75
+ERR1602666.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;female;10.842
+ERR1602667.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;11.009
+ERR1602668.fastq;hiseqxten;lymphoblastoid;2016-09-30;unknown;male;10.805

@@ -1,5 +1,5 @@
 #@author guillamaury debras
-#creation d'un csv a partir de fichiers output de l'outil k_seek_4.pl
+#creation d'un csv a partir de fichiers output de l'outil k_seek_4_2.pl
 #recuperation du top 50,stockage des motifs et occurences
 #recherche de 20 memes motifs dans le jeu commun selectionne ( sinon impossible #de clusteriser des motifs present dans un fichier mais pas dans les autres )
 
