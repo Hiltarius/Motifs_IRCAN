@@ -1,9 +1,0 @@
-
-cpt = 20
-cptreal=0
-
- for i in len(cpt) :
-     cptreal+=1
-     
- print cptreal    
-     
